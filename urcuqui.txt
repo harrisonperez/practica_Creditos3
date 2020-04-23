@@ -12,6 +12,7 @@ Este es mi aporte Diego burbano
 
 Este es mi aporte harrison 
 
+<<<<<<< HEAD
 
 
 _____________ 
@@ -19,3 +20,10 @@ _____________
 Esta es mi modificacion desde mi rama diego_burbano
 
 
+=======
+<<<<<<< HEAD
+Esta es mi modificacion desde la rama FerchoUrbano
+=======
+modificacion desde rama harrisonperez
+>>>>>>> 29037cc9a7735bb00e8fc4d29e5ac7921c0e7d63
+>>>>>>> d55cb20678a29536faa044249d2ecb5b3b6fa4a2
