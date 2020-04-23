@@ -18,5 +18,18 @@ Este es mi aporte desde la rama de CRISTIANURCUQUI
 
 este es mi aporte harrison
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+esta es la utima modificacion desde la rama master
+=======
+# Esta es mi modificacion desde mi rama
+>>>>>>> FerchoUrbano
+=======
+modificacion desde rama harrisonperez
+=======
 esta es la utima modificacion desde la rama master
 >>>>>>> 91f500c8fbffbd150c9cfa8bb640af6dd23e9199
+<<<<<<< HEAD
+=======
+>>>>>>> 29037cc9a7735bb00e8fc4d29e5ac7921c0e7d63
+>>>>>>> 3cce11f5ecfe7e79e443fab1efed2892175f0a56
